@@ -1,4 +1,4 @@
-# Quantitative-Investing - Assistant
+# Quantitative Investing Assistant
 
 A free and open-source Python-based stock analysis system that combines fundamentals, 10+ technical indicators, and global macro sentiment to generate conviction-weighted BUY/SELL signals — across US, India, and Singapore markets.
 
